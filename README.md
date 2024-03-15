@@ -2,7 +2,7 @@
 
 A dashboard web app template built in Python using Streamlit.
 
-# Envirioment
+# Environment
 ```
 conda env create -f environment.yml
 conda activate streamlit
