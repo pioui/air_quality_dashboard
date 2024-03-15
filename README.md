@@ -4,9 +4,8 @@ A dashboard web app template built in Python using Streamlit.
 
 # Envirioment
 ```
-conda create --name streamlit
+conda env create -f environment.yml
 conda activate streamlit
-conda install --file requirements.txt
 ```
 # Run
 ```
